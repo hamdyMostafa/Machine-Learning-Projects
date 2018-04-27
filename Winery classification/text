@@ -1,0 +1,3 @@
+The Wine data set is the running example for our discussion of the generative approach to classification.
+The data can be downloaded from the UCI repository (https://archive.ics.uci.edu/ml/datasets/wine).
+It contains 178 labeled data points, each corresponding to a bottle of wine.
